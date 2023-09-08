@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
  * main - this illustrates the main function
  *
  * Return: 0 on (success)
  */
+
 int main(void)
 {
 
